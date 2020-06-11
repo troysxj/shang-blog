@@ -19,8 +19,8 @@ git commit -m 'deploy'
 git config user.name mika
 git config user.email shangacademy@hotmail.com
 # 如果发布到 https://<USERNAME>.github.io
- git push -f git@github.com:troysxj.github.io.git master
+# git push -f git@github.com:troysxj.github.io.git master
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-#git push -f git@github.com:troysxj/shang-blog.git master:gh-pages
+git push -f git@github.com:troysxj/shang-blog.git master:gh-pages
 
 cd -
