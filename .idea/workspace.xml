@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d39ac4f7-4fda-4fdc-bbbb-599f22bb1ffc" name="Default Changelist" comment="[Feature] init">
+    <list default="true" id="d39ac4f7-4fda-4fdc-bbbb-599f22bb1ffc" name="Default Changelist" comment="[Feature] update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
@@ -66,7 +66,7 @@
       <workItem from="1591781908643" duration="3570000" />
       <workItem from="1591792880267" duration="309000" />
       <workItem from="1591793445738" duration="1507000" />
-      <workItem from="1591830677754" duration="3467000" />
+      <workItem from="1591830677754" duration="4230000" />
     </task>
     <task id="LOCAL-00001" summary="[Feature] init">
       <created>1591778652479</created>
@@ -89,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591841955389</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[Feature] update">
+      <created>1591842984250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591842984250</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +118,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="[Feature] 发布调整" />
     <MESSAGE value="[Feature] init" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Feature] init" />
+    <MESSAGE value="[Feature] update" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Feature] update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="356" y="90" key="CommitChangelistDialog2" timestamp="1591840999813">
@@ -134,10 +142,10 @@
       <screen x="0" y="23" width="1680" height="983" />
     </state>
     <state width="1659" height="266" key="GridCell.Tab.0.right/1680.-110.1920.1057/0.23.1680.983@0.23.1680.983" timestamp="1591781897661" />
-    <state x="440" y="254" key="Vcs.Push.Dialog.v2" timestamp="1591841962598">
+    <state x="440" y="254" key="Vcs.Push.Dialog.v2" timestamp="1591842985420">
       <screen x="0" y="23" width="1680" height="983" />
     </state>
-    <state x="440" y="254" key="Vcs.Push.Dialog.v2/1680.-110.1920.1057/0.23.1680.983@0.23.1680.983" timestamp="1591841962598" />
+    <state x="440" y="254" key="Vcs.Push.Dialog.v2/1680.-110.1920.1057/0.23.1680.983@0.23.1680.983" timestamp="1591842985420" />
     <state x="628" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591841850492">
       <screen x="0" y="23" width="1680" height="983" />
     </state>

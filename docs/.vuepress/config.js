@@ -1,7 +1,5 @@
 module.exports = {
-    base: '/shang-blog/',
-    // 你的GitHub仓库
-    // repo: 'https://github.com/troy-sxj/shang-blog',
+    // base: '/shang-blog/',
     title: 'shang-demo',
     description: 'Shang blog',
     head: [
